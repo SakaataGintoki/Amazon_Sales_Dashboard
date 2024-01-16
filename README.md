@@ -14,10 +14,10 @@ Python,Pandas,seaborn,matplot (for data cleaning)
 Google Collab (for running Python code in the cloud)
 Power BI Desktop (for visualization purpose)
 
-#Dataset
+# Dataset
 The Amazon sale report dataset used in this project is used from Kaggle and can be found here. The dataset includes details on e-commerce sales; you can download it directly from the Kaggle platform.
 
-#Data Cleaning
+# Data Cleaning
 The data cleaning process was performed using Python in Google Colab using pandas and other package. The notebook Amazon.ipynb details the step-by-step process of loading the dataset, handling missing values, and dropping unnecessary columns, converting the datatype . This ensures that the data is in a suitable format and cleaned for visualization.
 
 
